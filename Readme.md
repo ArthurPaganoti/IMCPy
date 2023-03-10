@@ -1,1 +1,1 @@
-Exercicio do calculo do IMC feito utilizando a linguagem Python.
+Exercicio do calculo do IMC ( Indice de massa corporal ), exercicio feito em Python
